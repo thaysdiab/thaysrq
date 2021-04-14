@@ -1,4 +1,4 @@
-# Hello World 
+# Hello World 👩🏻‍💻
 
 Eu sou a Thays 👩🏻‍, graduando em Análise e desenvolvimento de Sistemas pela Faculdade Impacta 💻📈
 
