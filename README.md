@@ -15,10 +15,12 @@ Hoje o meu foco é em desenvolvimento web e mobile {front-end}, mas no meu tempo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
+
 ### 📈 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaysrq&show_icons=true&theme=jolly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaysrq&layout=compact&theme=jolly)
+
 
 ### 📲 Vamos conversar?!
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thaysrq)](https://github.com/thaysrq)
