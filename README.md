@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**thaysrq/thaysrq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou a Thays, estou graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta 👩🏻‍💻📈
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thaaysrq)
