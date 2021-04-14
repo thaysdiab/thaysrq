@@ -1,6 +1,13 @@
-### Hi there 👋
+### Olá, 👋
 
 Eu sou a Thays, estou graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta 👩🏻‍💻📈
+```javascript
+const thays = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Flask, Node, Material-UI, Docker],
+}
+```
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
