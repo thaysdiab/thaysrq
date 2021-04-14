@@ -12,4 +12,4 @@ Eu sou a Thays 👩🏻‍, graduando em Análise e desenvolvimento de Sistemas 
 
 ### Vamos conversar?!
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thaysrq)](https://github.com/thaysrq)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/thayspsilva)](www.linkedin.com/in/thayspsilva)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thayspsilva)](https://www.linkedin.com/in/thayspsilva)
