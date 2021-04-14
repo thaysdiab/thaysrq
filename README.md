@@ -8,6 +8,6 @@ Eu sou a Thays, estou graduando em Análise e Desenvolvimento de Sistemas pela F
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thaysrq&theme=jolly&show_icons=true&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaysrq&show_icons=true&theme=jolly)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaysrq&theme=jolly&show_icons=true)
 
