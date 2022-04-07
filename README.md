@@ -2,7 +2,7 @@
 
 Eu sou a Thays 👩🏻‍, graduando em Análise e desenvolvimento de Sistemas pela Faculdade Impacta 💻📈
 
-Hoje o meu foco é em desenvolvimento web e mobile {front-end}, mas no meu tempo livre gosto de estudar e pesquisar sobre linguagens e ferramentas para Back-end.
+Hoje o meu foco é em desenvolvimento web e mobile {front-end}.
 
 
 ### 🛠️ Linguagens/Ferramentas
